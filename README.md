@@ -29,7 +29,7 @@ A Xposed module for One Plus 5T Oxygen OS, Aweme, HuoShan, Aweme Lite,  Tik Tok,
 ##### 1. 下載 
 [Xposed Repo](https://repo.xposed.info/module/cn.kwaiching.hook "Xposed Repo")
 
-[網盤1](https://590m.com/dir/16731109-38525057-903954 "城通網盤")
+[網盤1](https://u062.com/dir/16731109-40183208-b34aae "城通網盤")
 
 [網盤2](https://www.90pan.com/o137885 "90網盤")
 
